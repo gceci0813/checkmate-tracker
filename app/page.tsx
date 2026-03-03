@@ -20,10 +20,12 @@ export default async function Home() {
     dash_subtitle: 'Checkmate Government Relations — Project Dashboard',
     brand_name: 'CHECKMATE',
     users: [
-      { name: 'GC',    color: '#C12033', role: 'Chief of Staff' },
-      { name: 'Yoshi', color: '#3D4F5F', role: 'Japan Practice Lead' },
-      { name: 'Nico',  color: '#3a7fe0', role: 'Senior Advisor' },
-      { name: 'Ches',  color: '#2a9d5c', role: 'Managing Partner' },
+      { name: 'Giancarlo', color: '#C12033', role: 'Chief of Staff' },
+      { name: 'Usman',     color: '#3D4F5F', role: 'Senior Advisor' },
+      { name: 'Nicholas',  color: '#3a7fe0', role: 'Senior Advisor' },
+      { name: 'Cindy',     color: '#2a9d5c', role: 'Advisor' },
+      { name: 'Ara',       color: '#7a5be0', role: 'Advisor' },
+      { name: 'Theo',      color: '#e0923a', role: 'Advisor' },
     ],
   };
 
